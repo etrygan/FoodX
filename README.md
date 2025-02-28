@@ -34,7 +34,7 @@ React Native Vector Icons (UI enhancements)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/SmartFoodExpiryChecker.git
+git clone https://github.com/etrygan/SmartFoodExpiryChecker.git
 cd SmartFoodExpiryChecker
 
 2️⃣ Install Dependencies
@@ -54,12 +54,12 @@ npx react-native run-ios
 📷 Screenshots
 
 🏠 Home Screen
-![Home Screen](screenshots/homescreen.png)
+![Home Screen](screenshots/homescreen.jpeg)
 
 ➕ Add-Item Screen
-![Add Item Screen](screenshots/additemscreen.png)
+![Add Item Screen](screenshots/additemscreen.jpeg)
 
-![Add Item Screen](screenshots/adddate.png)
+![Add Item Screen](screenshots/adddate.jpeg)
 
 📄 License
 
