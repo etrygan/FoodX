@@ -1,8 +1,8 @@
-📌 Project Overview
+#📌 Project Overview
 
 The Smart Food Expiry Checker is a React Native mobile application that helps users track and manage food expiry dates. Users can add food items with expiry dates, view a list of stored items, and delete expired ones to reduce food waste.
 
-🚀 Features
+##🚀 Features
 
 📋 Add food items with an expiry date.
 
@@ -14,7 +14,7 @@ The Smart Food Expiry Checker is a React Native mobile application that helps us
 
 💾 Data persistence using AsyncStorage.
 
-🛠 Tech Stack
+##🛠 Tech Stack
 
 React Native (UI development)
 
@@ -30,7 +30,7 @@ DateTimePicker (Expiry date selection)
 
 React Native Vector Icons (UI enhancements)
 
-📥 Installation & Setup
+##📥 Installation & Setup
 
 1️⃣ Clone the Repository
 
@@ -43,32 +43,35 @@ npm install
 
 3️⃣ Run the Application
 
-For Android:
+###For Android:
 
 npx react-native run-android
 
-For iOS (Mac required):
+###For iOS (Mac required):
 
 npx react-native run-ios
 
-📷 Screenshots
+##📷 Screenshots
 
-🏠 Home Screen
+###🏠 Home Screen
 ![Home Screen](screenshots/homescreen.jpeg)
 
-➕ Add-Item Screen
+###➕ Add-Item Screen
 ![Add Item Screen](screenshots/additemscreen.jpeg)
 
 ![Add Item Screen](screenshots/adddate.jpeg)
 
-📄 License
+##📄 License
 
 Will be updated in Sometime.
 
-🤝 Contributing
+
+#3🤝 Contributing
 
 Feel free to fork this repository and contribute improvements. Pull requests are welcome!
 
-✨ Author
+## Contact
 
-@etrygan (Anurag)
+Your Name - [anuragt1604@gmail.com](mailto:anuragt1604@gmail.com)
+
+Project Link: [https://github.com/etrygan/FoodX](https://github.com/etrygan/FoodX)
