@@ -71,4 +71,4 @@ Feel free to fork this repository and contribute improvements. Pull requests are
 
 ✨ Author
 
-Your NameGitHub: @etrygan
+@etrygan
