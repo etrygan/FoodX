@@ -63,7 +63,7 @@ npx react-native run-ios
 
 ## 📄 License
 
-Will be updated in Sometime.
+MIT License.
 
 
 ## 3🤝 Contributing
